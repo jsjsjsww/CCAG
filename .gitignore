@@ -1,0 +1,34 @@
+# Java class files
+*.class
+
+# General files
+*.txt
+*.log
+*.par
+*.tsp
+*.tour
+.DS_Store
+
+# generated files
+bin/
+gen/
+
+# Eclipse project files
+.classpath
+.project
+proguard/
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Gradle
+.gradle
+build/
+local.properties
+
+# Archives
+archives/*.xml
+archives/*.xml.sha1
